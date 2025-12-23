@@ -38,16 +38,7 @@ The EDA phase focuses on identifying patterns and relationships associated with 
 - Higher **monthly charges** are associated with increased churn risk
 - Customers using **electronic check** as a payment method show the highest churn rate
 - Availability of **technical support** strongly reduces churn probability
-
-### Selected Visualizations
-
-![Churn Distribution](figures/churn_distribution.png)
-![Churn by Contract Type](figures/churn_by_contract.png)
-![Churn by Tenure](figures/churn_by_tenure.png)
-![Churn by Monthly Charges](figures/churn_by_monthly_charge.png)
-![Churn by Payment Method](figures/churn_by_payment_method.png)
-![Churn by Tech Support](figures/churn_by_tech_support.png)
-
+  
 ---
 
 ## Modeling Approach
